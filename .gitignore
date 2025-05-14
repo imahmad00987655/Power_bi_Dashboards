@@ -1,0 +1,17 @@
+# Power BI specific
+*.pbix
+*.pbix.temp
+*.pbix.backup
+*.pbix.temp.backup
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+*.log 
